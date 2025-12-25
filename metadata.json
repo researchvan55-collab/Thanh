@@ -1,0 +1,7 @@
+{
+  "name": "Dr. Van Thanh Phan Portfolio",
+  "description": "A professional academic landing page and portfolio for Dr. Van Thanh Phan, featuring research, publications, and an AI-powered CV assistant.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
